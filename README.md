@@ -7,7 +7,3 @@
 - 📫 How to reach me: work.alvinang@gmail.com
 - 😄 Pronouns: alvin
 - ⚡ Fun fact: Code is the language you speak on internet. 
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
